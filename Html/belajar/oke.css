@@ -1,0 +1,11 @@
+/*CSS external*/
+/*
+    Warna: contoh, <h1 style="color:rgb(0, 0, 0):">text<h1>
+    RGB value, rgb(Red, Green, Blue) = 0 hitam 255 putih
+    HEX value, #rrggbb = 00 nilai terendah ff nilai tertinggi
+    HSL value, hsl(Hue, Saturation, Lightness) = H 0 merah 120 hijau 240 biru, S 0% abu-abu 100% warna penuh, L 0% hitam 50% abu 100% putih
+    RGBA value, rgba(Red, Green, Blue, Alpha) Alpha 0,0 transparan 1,0 warna penuh
+*/
+body {background-color: powderblue;}
+h1, h3{color: rgb(0, 255, 42);}
+p {color: red;}
